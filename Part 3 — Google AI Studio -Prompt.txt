@@ -1,0 +1,4 @@
+Part 3 — Google AI Studio "Prompt"
+This is what changes with every request. 
+It passes the actual Slack message into Gemini.
+In Zapier this field uses a variable — the live message content pulled from the Slack trigger.

@@ -1,0 +1,3 @@
+Agent 1 — Complete Prompt Design
+Normalisation Agent — Backlog Prism Concierge
+Three parts. Each goes in a specific place in Zapier and Google AI Studio.

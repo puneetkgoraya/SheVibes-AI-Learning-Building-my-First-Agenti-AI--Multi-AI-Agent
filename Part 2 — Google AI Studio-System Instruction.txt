@@ -1,0 +1,4 @@
+Part 2 — Google AI Studio "System Instruction"
+This is the standing instruction that never changes.
+It tells Gemini who it is, what it values, and what it must never do.
+This is your most important prompt — it governs every single request that enters the pipeline.

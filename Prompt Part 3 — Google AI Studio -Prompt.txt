@@ -1,0 +1,17 @@
+A new request has arrived in the Backlog Prism 
+Concierge Slack channel from the ScrumOKRsPath 
+internal learning platform intake channel.
+
+The requester is: [ZAPIER VARIABLE: Slack sender name]
+The message they sent is: [ZAPIER VARIABLE: Slack message text]
+The date and time is: [ZAPIER VARIABLE: timestamp]
+
+Apply your normalisation instructions precisely. 
+Extract the core request. Strip everything that 
+is not the request. Produce the structured output 
+in the exact format specified.
+
+Remember: you are describing a problem in plain 
+English. You are not writing requirements. You 
+are not generating solutions. You are not 
+judging how the request was written.
